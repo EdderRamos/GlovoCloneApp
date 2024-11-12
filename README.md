@@ -33,7 +33,7 @@ This app is a clone of the Glovo App, created for learning purposes to explore J
 
 
 ## UI APP
-![Glovo App Clone](https://files.catbox.moe/e83lk3.gif)
+![GlovoCloneApp](https://files.catbox.moe/e83lk3.gif)
 
 
 
