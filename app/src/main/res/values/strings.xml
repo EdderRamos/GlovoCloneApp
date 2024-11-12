@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">GlovoCloneApp</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_lets_start_phone_number">Let\'s start with your phone number</string>
+    <string name="text_title_select_a_country">Select a country</string>
+    <string name="text_google">Google</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_email">Email</string>
 </resources>

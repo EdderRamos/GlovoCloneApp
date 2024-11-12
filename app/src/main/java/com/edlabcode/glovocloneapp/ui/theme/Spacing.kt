@@ -14,10 +14,13 @@ data class Spacing(
     val small: Dp = 8.dp,
     val medium: Dp = 16.dp,
     val large: Dp = 32.dp,
-    val extraLarge: Dp = 64.dp
+    val extraLarge: Dp = 64.dp,
+    val logoMaxSpace: Dp = 192.dp
 )
 
 val LocalSpacing = compositionLocalOf { Spacing() }
+
+val LocalDimens = compositionLocalOf { Spacing() }
 val MaterialTheme.spacing: Spacing
     @Composable
     @ReadOnlyComposable

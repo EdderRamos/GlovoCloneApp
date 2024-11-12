@@ -3,7 +3,7 @@
 
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
         <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_animation</item>
-        <item name="windowSplashScreenBackground">@color/PrimaryColor</item>
+        <item name="windowSplashScreenBackground">@color/SecondaryColor</item>
         <item name="windowSplashScreenAnimationDuration">1000</item>
         <item name="postSplashScreenTheme">@style/Theme.GlovoCloneApp</item>
     </style>
